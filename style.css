@@ -1,0 +1,23 @@
+input{ border-top-right-radius: 8px;
+    border-top-color: olive;
+    border-color: olive;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgb(240, 240, 222);
+
+}
+*{ background-color: rgb(234, 234, 141)  }
+
+.form-label{
+    font-size: 24px;
+    color:black
+}
+button{ background-color:rgb(20, 111, 20);
+    padding: 6px;
+    font-size: 18px;
+
+#logo {
+        position: relative;
+        left: 150%; 
+        top: 300%
+    }
